@@ -1,0 +1,44 @@
+body{
+    background-image: url("./img/bg.png");
+    background-attachment: fixed;
+    background-position: bottom;
+    background-size: cover;
+    font-family: "Noto Sans KR", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.box{
+    background-color: rgba(39, 44, 64, .8);
+    color:white;
+    text-align: center;
+    margin: 100px auto;
+    border-radius: 20px;
+    padding:50px 70px;
+    max-width: 500px;
+  
+
+}
+
+.desc.title{
+    font-weight: 900;
+    font-size: 20px;
+    font-family:"Grandiflora One", sans-serif;
+}
+
+.button{
+    background-color: #ffec78;
+    padding: 10px;
+    border-radius: 50px;
+    font-size: 1.2em;
+    margin: 20px auto;
+    color: black;
+}
+.logo{
+    margin:20px;
+}
+
+a{
+    font-weight: 900;
+    text-decoration-line:none;
+}
+
